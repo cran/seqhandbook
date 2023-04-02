@@ -1,5 +1,6 @@
-fa38c6a02ef45a687b4d1c7c7ad7fbba *DESCRIPTION
+27be9abafdf1123e79a475385d15163c *DESCRIPTION
 ee2e23fc3e4ef7f8b38a53c1d4edfeee *NAMESPACE
+c9a2adb3b609e5d21c0b948b7c105225 *NEWS.md
 07cccfba0264ba367e6ee15bf707186d *R/assoc.domains.R
 969618008ce10fdd1bbcc2869bb0d74a *R/seq2qha.R
 3eefcc781463c43c9576b0733680f631 *R/seq_heatmap.R
@@ -9,15 +10,14 @@ ddcbca5b2771980b85a6d85babc32b0a *R/seqinepi.R
 3f291d0b27a99d60b0b178d81cab6d66 *R/seqmds.stress.R
 bc9bb858ff0142e1c63571a69916f0f2 *R/seqsmooth.R
 36cb6d9384b6ff53d1eadea89584ae20 *R/symPLS.R
-19d04b14cf32de52e73204f2cf6db437 *README.md
-65407ef00ad3b8d2dbcedc540411da63 *build/vignette.rds
+f362e0e48c1cf10840bab98570b5e9e6 *README.md
+514e2fb3375649bd69e1bb04c733bced *build/vignette.rds
 828a969ed931590c76409f0a742d4f81 *data/seqgimsa.RData
 da3ed9e92b7ee7e19459fb733179ea4e *data/seqmsa.RData
 fcadbaa124959ce908f34fbe25c4a1c9 *data/socdem.RData
 d4bbcb23855626cc15724e7fe48f802f *data/trajact.RData
-1e7a3b4cc09c6a6075d5f011e9f74abe *inst/doc/Tutoriel.R
-1919482c4632bc04c7cc001263c1e429 *inst/doc/Tutoriel.Rmd
-c88d81fa17c241df27699784f93dd86e *inst/doc/Tutoriel.html
+05a6b93c7c22d8ed2e03ca59605f2ecb *inst/doc/Tutorial.html
+d233c5d48581542f3f1cc6db1b0391f4 *inst/doc/Tutorial.html.asis
 a62819be22d626d946bbd37410e822c4 *man/assoc.domains.Rd
 968a3057877283284d6d3e2fded6153b *man/seq2qha.Rd
 84cd58d715b5e76907995110a3166ba6 *man/seq_heatmap.Rd
@@ -31,4 +31,5 @@ caa51925e894b06a778c373dda4760d4 *man/seqsmooth.Rd
 a2b6d4e381c3605596f0ce930601542b *man/socdem.Rd
 e80ea6d479035b6a4f9f0f38c258cd47 *man/symPLS.Rd
 1c24604b41be07dd7f642bb661beecf0 *man/trajact.Rd
-1919482c4632bc04c7cc001263c1e429 *vignettes/Tutoriel.Rmd
+d233c5d48581542f3f1cc6db1b0391f4 *vignettes/Tutorial.html.asis
+359b9c63cb3ba43384b2995e5699a63f *vignettes/Tutorial_fichiers/MathJax.js
