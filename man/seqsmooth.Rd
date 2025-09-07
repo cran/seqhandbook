@@ -12,7 +12,7 @@ seqsmooth(seqdata, diss, k=20, r=NULL)
 }
 
 \arguments{
-  \item{seqdata}{a sequence object (see \code{\link{seqdef}} function).}
+  \item{seqdata}{a sequence object (see \code{\link[TraMineR]{seqdef}} function).}
   \item{diss}{a dissimilarity matrix, giving the pairwise distances between sequences.}
   \item{k}{size of the neighborhood. Default is 20.}
   \item{r}{radius of the neighborhood. If NULL (default), the radius is not used for smoothing.}
@@ -20,7 +20,7 @@ seqsmooth(seqdata, diss, k=20, r=NULL)
 
 \value{
 A list with the following elements:
-\item{seqdata}{a sequence object (see \code{\link{seqdef}} function)}
+\item{seqdata}{a sequence object (see \code{\link[TraMineR]{seqdef}} function)}
 \item{R2}{pseudo-R2 measure of the goodness of fit of the smoothing}
 \item{S2}{stress measure of the goodness of fit of the smoothing}
 }

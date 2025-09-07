@@ -13,7 +13,7 @@ seqifpos(seqdata)
 }
 
 \arguments{
-  \item{seqdata}{a sequence object (see \code{\link{seqdef}} function).}
+  \item{seqdata}{a sequence object (see \code{\link[TraMineR]{seqdef}} function).}
 }
 
 \references{
@@ -23,7 +23,7 @@ Gabadinho, A., G. Ritschard, N. S. Müller and M. Studer (2011). Analyzing and V
 \author{Nicolas Robette}
 
 \seealso{
-\code{\link{seqistatd}}, \code{\link{seqi1epi}}, \code{\link{seqinepi}}
+\code{\link[TraMineR]{seqistatd}}, \code{\link{seqi1epi}}, \code{\link{seqinepi}}
 }
 
 \examples{

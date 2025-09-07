@@ -12,7 +12,7 @@ seq2qha(seqdata, periods)
 }
 
 \arguments{
-  \item{seqdata}{a sequence object (see \code{\link{seqdef}} function).}
+  \item{seqdata}{a sequence object (see \code{\link[TraMineR]{seqdef}} function).}
   \item{periods}{numeric vector of the first positions of the periods used for recoding}
 }
 
